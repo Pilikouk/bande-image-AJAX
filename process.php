@@ -208,7 +208,6 @@ if($final_height > 0) {
             <p>
                 <strong>Fichier :</strong> créé<br>
                 <strong>Taille :</strong> <?php echo round( filesize($path)/1000000 , 2); ?> Mo<br>
-                <strong>Choualbox Limit :</strong> 5Mo<br><br>
                 <strong>Vous avez 5 minutes pour télécharger le fichier.</strong>
             </p>
 
