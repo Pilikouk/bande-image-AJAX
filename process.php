@@ -161,7 +161,7 @@ if($final_height > 0) {
                     }
 
                     // ON DEFINI LA POLICE
-                    $font = $_POST["upload_folder"] . "/assets/RobotoCondensed-Regular.ttf"; 
+                    $font = $_POST["upload_folder"] . "RobotoCondensed-Regular.ttf"; 
 
 
                     // ON ECRIT NOTRE TEXTE
